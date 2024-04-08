@@ -1,0 +1,1 @@
+javac -source 8 -encoding utf8 *.java
